@@ -1,4 +1,4 @@
-# Fitness Tracker
+# Fitness Tracker Phase 2
 
 ## Table of Contents
 1. [Overview](#Overview)
@@ -8,7 +8,11 @@
 
 ## Overview
 ### Description
-Allows users to create profiles to track their fitness goals. This is a self reporting fitness app that will allow the user to input their workout history and track their activity. User will be displayed analytics based on the amount of input of workout history recorded into the app. Will also implement tutorial videos section to help users learn new workouts, or even for beginners to get started. A social media aspect of this app will allow users to share with friends and family; while promoting healthy competion and motivating users to work out.
+This project was cloned from a group project I participated in by the name of [Fitness Tracker](https://github.com/Fitness-Guys/Fitness-Tracker-App). It was a collaborative effort for the first Phase of the project and the other contributers deserve credit for their contribution. Fitness Tracker Phase 2 will be a continuation of the original project and currently I will be the sole contributer to this Phase. There are no plans on launching and commercializing this project as of yet, and its purpose will solely be for demonstration purposes only. 
+
+This App Allows users to create profiles to track their fitness goals. This is a self reporting fitness app that will allow the user to input their workout history and track their activity. User will be displayed analytics based on the amount of input of workout history recorded into the app. Will also implement tutorial videos section to help users learn new workouts, or even for beginners to get started. A social media aspect of this app will allow users to share with friends and family; while promoting healthy competion and motivating users to work out.
+
+Phase 2 of this project will focus on improving the user interface and providing a more smoother user experience. I will also fix some of the bugs that are present in the first phase, and also improve some of the functionality and features of the first phase. Some of the information in this description will contain information from the first project because the second phase is still in planning
 
 
 ### App Evaluation
